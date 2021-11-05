@@ -3,7 +3,7 @@
 
 body {
 
-  box-sizing: border-box;
+  /* box-sizing: border-box; */
   background-color:#DBD1A7;
   background-image: url("../images/paper.jpg");
   background-blend-mode: soft-light;
