@@ -1,3 +1,6 @@
+
+
+
 body {
   background-color:#DBD1A7;
   background-image: url("../images/paper.jpg");
@@ -13,7 +16,7 @@ h1, h2 {
 
 p {
   font-family: "Varela Round", sans-serif;
-  font-size: 16pt;
+  font-size: 1.2rem;
   line-height: 1.5;
 }
 
@@ -61,8 +64,13 @@ p {
 }
 
 .about{
-  width: 80%;
+  margin: 0 auto;
+  /* width: 80%; */
   /* min-width: 300px; */
+}
+
+.heading {
+  margin: 5% 0;
 }
 
 .name {
