@@ -2,6 +2,8 @@
 
 
 body {
+
+  box-sizing: border-box;
   background-color:#DBD1A7;
   background-image: url("../images/paper.jpg");
   background-blend-mode: soft-light;
@@ -27,9 +29,13 @@ p {
 
 .logo{
   max-width: 150px;
-  margin: 7%;
-  padding: 3%;
+  margin: 10%;
+  /* padding: 10%; */
   /* min-width: 100px; */
+}
+
+nav {
+  padding: 0 5%
 }
 
 .down-icon {
@@ -60,21 +66,21 @@ p {
 .spotify {
 
   max-width: 33%;
-  min-width: 400px;
+  min-width: 350px;
 }
 
 .about{
-  margin: 2% auto;
+  margin: 5% auto;
   /* width: 80%; */
   /* min-width: 300px; */
 }
 
 .about p {
-  padding: 1% 0;
+  padding: 10px 0;
 }
 
 .heading {
-  margin: 3% 0;
+  margin: 0 0 5% 0;
 }
 
 .name {
