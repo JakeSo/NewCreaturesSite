@@ -64,13 +64,17 @@ p {
 }
 
 .about{
-  margin: 0 auto;
+  margin: 2% auto;
   /* width: 80%; */
   /* min-width: 300px; */
 }
 
+.about p {
+  padding: 1% 0;
+}
+
 .heading {
-  margin: 5% 0;
+  margin: 3% 0;
 }
 
 .name {
@@ -79,7 +83,7 @@ p {
 
 .band-pic{
   text-align: center;
-  margin: 5% auto;
+  margin: 7% auto;
 }
 
 .img-thumbnail{
