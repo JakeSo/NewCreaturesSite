@@ -1,7 +1,9 @@
 body {
   background-color:#DBD1A7;
   background-image: url("../images/paper.jpg");
-  background-blend-mode: overlay;
+  background-blend-mode: soft-light;
+  background-size: contain;
+  background-repeat: repeat-y;
   font-family: "Rock Salt", sans-serif;
 }
 
